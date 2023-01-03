@@ -21,7 +21,7 @@ author: AmenAnthem
 - give **Bootle of Booze**, get **Iron Key**
 - W W S E S S E (use **Iron Key**)
 - give **Rat called Cecil**, get **Medipack**
-- W N N W N E E N W W W
+- W N N W N E E NE W W W
 - give **Medipack**, get **Battery**
 - W N E (use **Battery**)
 ## Death Crypt
@@ -41,7 +41,7 @@ author: AmenAnthem
 - get **Large Mallet**
 - N N N N W N N
 - give **Large Mallet**
-- S S E S S
+- S S E SE S
 - destroy sarcophagus
 - get **Iron Key**
 - S (use **Iron Key**)
@@ -147,7 +147,7 @@ author: AmenAnthem
 - W W S S
 - kill enemy
 - get **Iron Key**
-- N N E E E N (use **Iron Key**)
+- N N E E E N NE (use **Iron Key**)
 - get **Phoenix Egg**
 - S S W W W S S W W
 - kill enemy
@@ -214,7 +214,7 @@ author: AmenAnthem
 - get **Feather**
 - N N N W
 - give **Trapped Mouse**
-- N N N
+- N N
 - get **Sulphur**
 - S S W S W S
 - combine **Feather** and **Sulphur** for **Spell of Keys**
@@ -272,9 +272,7 @@ author: AmenAnthem
 - use **Control Key**
 - N
 - use **Spell of Fire**
-- N N N 
-- use self destruct mechanism
-- W (use **Security Pass**)
+- N N N W (use **Security Pass**)
 - kill enemies
 - talk to guy on throne
 - W
@@ -320,7 +318,7 @@ author: AmenAnthem
 - switches: 1 3 4
 - S E E S
 - get **Coin** and **Sulphur**
-- N W W
+- N SW W
 - use **Coin**, get **Drink**
 - E E S S (open *hidden door* straight ahead)
 - S
@@ -368,7 +366,7 @@ author: AmenAnthem
 - teleport
 - E
 - give **Moon Stone**
-- W
+- SW
 - teleport
 - kill enemy
 - use **Compact Disc**
@@ -383,7 +381,7 @@ author: AmenAnthem
 - W S W
 - get **Skull**
 - combine **Skull** and **Crystal** for **Spell of Armor**
-- SW W
+- SW W (open *hidden door*)
 - use **Spell of Armor**
 - kill enemy
 - get **Gladiator Key**
@@ -417,27 +415,29 @@ author: AmenAnthem
 - N E N E
 - use **Toy Mouse**
 - use switch
-- S W (open *hidden door* in SW corner)
+- S
+- talk to guy
+- W (open *hidden door* in SW corner)
 - teleport
 - get **Cell Key**
 - E (use **Cell Key**)
-- E E S (open *hidden door*)
+- E E SW (open *hidden door* in SW corner)
 - use switch
-- N S
+- N SE
 - get **Exit Card**
 - N E (use **Exit Card**)
 - kill enemy
 - E
 ## The Vault
-- W W S S S E E E E E
-- use switch
+- W W S S S E E E E E E
+- use switch in S corner
 - get **Key to Tom's Flat**
-- E S
+- SE S
 - get **Medallion**
 - N W W W N (use **Key to Tom's Flat**)
 - get **Key to South Sector**
 - S W W W S S S (use **Key to South Sector**)
-- S S S S E E (give **Medallion**)
+- S S SE S E E (give **Medallion**)
 - get **Key to West Sector**
 - W W N N N N N N N W (use **Key to West Sector**)
 - W W W N (open *hidden door* in NW corner)
@@ -454,26 +454,26 @@ author: AmenAnthem
 - kill enemy
 - get **Wizard's Amulet**
 - N N N N N E N E
-- give **Wizard's Amulet**, get **Key**
-- S S W S S S S S W (use **Key**)
+- give **Wizard's Amulet**, get **Cross Key**
+- W S W S S S S S W (use **Cross Key**)
 - get **Sword**
 ## Delavar's Lair
-- N W W E
+- N SW W SE
 - get **Air Rune**
 - W S S E
 - get **Fire Rune**
 - W W
 - get **Asbestos Mat**
-- E N N E E W W E
+- E N N NE E NW W NE
 - get **Lava Toad**
-- W E E
+- W SE E
 - get **Phoenix Egg**
-- SE E E W
+- SE E W
 - get **Earth Rune**
 - E E
 - get **Key**
 - W NW W NE E (use **Key**)
-- W
+- NW
 - get **Key**
 - E
 - get **Recipe for the Spell of Fire**
@@ -490,11 +490,11 @@ author: AmenAnthem
 - combine **Lava Toad** and **Phoenix Egg** for **Spell of Fire**
 - use **Spell of Fire** on 1st right fountain, disable others
 - get **Serpent Charm**
-- E SE
+- E S
 - use left: **Water Rune**, use right: **Serpent Charm**
 - kill enemy
 - get **Water Globe**
-- N NE E W W
+- N NE E NW W
 - get **Key**
 - N (use **Key**)
 - N E
@@ -512,9 +512,9 @@ author: AmenAnthem
 - S SE E SE E S (use **Key**)
 - S W
 - get **Dead Rat**
-- give **Dead Rat**, get **Stone**
+- give **Dead Rat**, get **Ball of Clay**
 - E N
-- use left: **Earth Rune**, use right: **Stone**
+- use left: **Earth Rune**, use right: **Ball of Clay**
 - kill enemy
 - get **Earth Globe**
 - N NW W
