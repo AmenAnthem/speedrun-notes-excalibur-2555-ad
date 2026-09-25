@@ -251,7 +251,7 @@ author: AmenAnthem
 - N W
 - get **Beetle**
 - N E
-- kill enemy
+- kill enemy with **Spell of Fire**
 - get **Toadstool** and **Handle**
 - W
 - combine **Toadstool** and **Beetle** for **Spell of Healing**
@@ -340,7 +340,6 @@ author: AmenAnthem
 - teleport
 - switch: 2
 - teleport
-- get **Compact Disc**
 - switch: 1
 - teleport
 - switch: 1
@@ -369,20 +368,11 @@ author: AmenAnthem
 - SW
 - teleport
 - kill enemy
-- use **Compact Disc**
 - use **Remote Control** (2x)
 - use switch
 - W
 ## Subterrania
-- S
-- get **Crystal**
-- S
-- get **Recipe for Spell of Armor**
-- W S W
-- get **Skull**
-- combine **Skull** and **Crystal** for **Spell of Armor**
-- SW W (open *hidden door*)
-- use **Spell of Armor**
+- S S W S W SW W (open *hidden door*)
 - kill enemy
 - get **Gladiator Key**
 - E N SE (use **Gladiator Key**)
@@ -484,10 +474,10 @@ author: AmenAnthem
 - get **Water Rune**
 - E S
 - use left: **Air Rune**, use right: **Brass Cock**
-- kill enemy
+- combine **Lava Toad** and **Phoenix Egg** for **Spell of Fire**
+- kill enemy with **Spell of Fire**
 - get **Air Globe**
 - S SW W SW W W (use **Key**)
-- combine **Lava Toad** and **Phoenix Egg** for **Spell of Fire**
 - use **Spell of Fire** on 1st right fountain, disable others
 - get **Serpent Charm**
 - E S
@@ -507,7 +497,7 @@ author: AmenAnthem
 - get **Book of Flames**
 - E E S
 - use left **Fire Rune**, use right: **Book of Flames**
-- kill enemy
+- kill enemy with **Spell of Fire**
 - get **Fire Globe**
 - S SE E SE E S (use **Key**)
 - S W
@@ -515,7 +505,7 @@ author: AmenAnthem
 - give **Dead Rat**, get **Ball of Clay**
 - E N
 - use left: **Earth Rune**, use right: **Ball of Clay**
-- kill enemy
+- kill enemy with **Spell of Fire**
 - get **Earth Globe**
 - N NW W
 - set **Globes**
